@@ -1,3 +1,5 @@
+// Visit https://www.facebook.com/<USER>/following and scroll down to load following, and then run the script.
+
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
